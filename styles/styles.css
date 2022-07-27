@@ -1,0 +1,185 @@
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #F5F5F5;
+            display: flex;
+            justify-content: center;
+        }
+
+        .main {
+            display: flex;
+            justify-content: flex-start;
+            flex-direction: column;
+            align-items: center;
+            width: 500px;
+            height: 500px;
+            margin-top: 20px;
+            /* background: linear-gradient(90deg, #F69430 0%, #F14E29 34.39%, #F3632B 61.22%, #F5832F 79.27%, #F58220 100%); */
+            background-image: url(/practic/jul-24/img/1x/Ресурс\ 1.png);
+        }
+
+        .form {
+            display: flex;
+            flex-direction: column;
+            height: 365px;
+            width: 365px;
+            background: #E1E1E1;
+            box-shadow: 0px 3px 0px 0px #BFC1BF;
+            margin-top: 67px;
+        }
+
+        .close {
+            display: flex;
+            justify-content: end;
+            margin: 5px 4px;
+
+        }
+
+        .title {
+            height: 31px;
+            width: 193px;
+            font-style: normal;
+            font-weight: 400;
+            font-size: 26px;
+            line-height: 31px;
+            color: #343844;
+            margin: 27px 85px 0px 85px;
+        }
+
+        p {
+            margin: auto;
+        }
+
+        .regist {
+            display: flex;
+            justify-content: center;
+        }
+
+        .member {
+            height: 12px;
+            width: 91px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 12px;
+            color: #FFFFFF;
+        }
+
+        .sign {
+            height: 12px;
+            width: 59px;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 12px;
+            color: #FFFFFF;
+        }
+
+        .line {
+            height: 1px;
+            width: 58px;
+            line-height: 12px;
+            background: #FFFFFF;
+            margin-left: 200px;
+        }
+
+        .user {
+            display: flex;
+            justify-content: center;
+            flex-direction: row-reverse;
+            height: 45px;
+            width: 291px;
+            margin-top: 34px;
+            margin-left: 34px;
+
+        }
+
+        .user-logo {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #E65848;
+            height: 45px;
+            width: 45px;
+        }
+
+        .inputtext {
+            height: 43px;
+            width: 242px;
+            border-radius: 0px;
+            size: 15px;
+            border: 0ch;
+            color: #C4C4C4;
+        }
+
+        .pass {
+            display: flex;
+            justify-content: center;
+            flex-direction: row-reverse;
+            height: 45px;
+            width: 291px;
+            margin-top: 16px;
+            margin-left: 34px;
+        }
+
+        .inputtext1 {
+            height: 43px;
+            width: 188px;
+            border-radius: 0px;
+            size: 15px;
+            border: 0ch;
+            color: #C4C4C4;
+        }
+
+        .eye {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background: #ffffff;
+            height: 45px;
+            width: 45px;
+            padding-right: 10px;
+        }
+
+        .login {
+            display: flex;
+            justify-content: space-between;
+            height: 45px;
+            width: 291px;
+            margin-top: 30px;
+            margin-left: 34px;
+        }
+
+        .log {
+            height: 45px;
+            width: 137px;
+            border-radius: 0px;
+            border: 0ch;
+            background: #E65848;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 20.5898px;
+            line-height: 25px;
+            color: #FFFFFF;
+        }
+
+        .chek-pass {
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: flex-end;
+            font-family: 'Inter';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 10px;
+            line-height: 12px;
+            color: #343844;
+            margin-left: 55px;
+        }
+
+        .logo {
+            display: flex;
+            margin-top: 22px;
+        }
